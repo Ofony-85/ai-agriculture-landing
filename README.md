@@ -78,6 +78,7 @@ sudo nginx -t
 sudo systemctl restart nginx
 
 **✅ Screenshot of Landing Page**
+https://1drv.ms/i/c/caba6ec4e3837be0/EcHhiM5LKCdAtYbIjPUgXD4BDYUEBD844Cpcb2Z80ZHeng?e=MGbIvO
 
 **✅ Public IP / Domain**
 🌐 http://34.201.116.173/
